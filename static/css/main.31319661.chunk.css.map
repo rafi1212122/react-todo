@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,MACI,UAAW,CACX,YAAa,CACb,kBAAmB,CACnB,YAAQ,CAAR,OACJ","file":"main.31319661.chunk.css","sourcesContent":[".todo{\r\n    width: 100%;\r\n    display: flex;\r\n    flex-direction: row;\r\n    gap: 4px;\r\n}"]}
